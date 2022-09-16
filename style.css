@@ -30,6 +30,21 @@
     margin-top:20px; 
     padding:10px;
     text-align: center;
+    
+    display: inline-block;
+    vertical-align: top;
+    font-size: 110%;
+    position: relative;
+
+    color:  #FF5900;
+    text-decoration: none;
+
+    transition: color .2s linear;
+    
+}
+
+.nav:hover{
+   color: #FFEB00;  
 }
 .href{
     text-decoration: none;
