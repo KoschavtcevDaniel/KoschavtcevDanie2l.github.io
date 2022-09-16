@@ -46,14 +46,14 @@
 .nav:hover{
    color: #FFEB00;  
 }
-.nav_link:after {
+.nav:after {
     content: "";
     display: block;
     width: 100%;
     height: 3px;
     display:none;
 
-    background-color: #FFEB00;;
+    background-color: #FFEB00;
 
     position: absolute;
     top: 100%;
