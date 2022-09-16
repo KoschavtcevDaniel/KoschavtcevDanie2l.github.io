@@ -43,7 +43,8 @@
 }
 
 .nav:hover{
-   color: #FFEB00;  
+   color: #FFEB00;
+    text-decoration: underline;
 }
 .nav:after {
     content: "";
